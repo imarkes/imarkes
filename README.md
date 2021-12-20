@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **i.markes@hotmail.com**
 
-- 📄 Know about my experiences [www.linkedin.com/in/imarkes](www.linkedin.com/in/imarkes)
+- 📄 Know about my experiences [www.linkedin.com/in/imarkes]
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
