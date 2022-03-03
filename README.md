@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Ivan Marques</h1>
 <h3 align="center">I am a Back-End Developer and Data Engineering Student.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=imarkes&label=Profile%20views&color=0e75b6&style=flat" alt="imarkes" /> </p>
-
 - 🌱 I’m currently learning **Google Cloud, Machine Learning, Apache**
 
 - 💬 Ask me about **Python, SQL, Pandas, Automation, Django, Flask**
