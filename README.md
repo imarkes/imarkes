@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Ivan Marques</h1>
-<h3 align="center">I am a Back-End Developer and Data Engineering Student.</h3>
+<h3 align="center">I am Data Engineering and Back-End Developer.</h3>
 
-- 🌱 I’m currently learning **Google Cloud, Machine Learning, Apache**
+- 🌱 I’m currently learning **Google Cloud, Aws, Spark, Kafka, Ariflow**
 
-- 💬 Ask me about **Python, SQL, Pandas, Automation, Django, Flask**
+- 💬 Ask me about **Python, SQL, Spark, Airflow, Automation, Django, Flask**
 
 - 📫 How to reach me **i.markes@hotmail.com**
 
