@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ivan Marques</h1>
-<h3 align="center">I am Data Engineering and Back-End Developer.</h3>
+<h3 align="center">I am Data Engineer and Back-End Developer.</h3>
 
 - 🌱 I’m currently learning **Google Cloud, Aws, Spark, Kafka, Ariflow**
 
